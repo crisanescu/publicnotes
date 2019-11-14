@@ -1,2 +1,4 @@
 test notes  
 test github pages
+http://username.github.io/repository
+http://crisanescu.github.io/publicnotes
