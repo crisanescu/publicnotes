@@ -2,3 +2,6 @@ test notes
 test github pages
 http://username.github.io/repository
 http://crisanescu.github.io/publicnotes
+
+use:
+https://sourceforge.net/projects/pyscripter/files/PyScripter-v3.6/
